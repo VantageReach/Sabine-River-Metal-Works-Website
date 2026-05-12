@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://vantagereach.github.io/Sabine-River-Metal-Works-Website/sitemap.xml
