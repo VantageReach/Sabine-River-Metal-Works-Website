@@ -32,11 +32,16 @@
         <div class="container split">
           <div class="quote-card" id="estimate-form">
             <h2>Request a Free Estimate</h2>
-            <p>This form is ready for layout review. A form backend such as Netlify Forms, Formspree or a CRM webhook still needs to be connected.</p>
-            <form class="form-grid" action="#" method="post">
+            <p>Tell us about your project and we will follow up with next steps.</p>
+            <form class="form-grid" action="https://formsubmit.co/info@vantagereach.com" method="post">
+              <input type="hidden" name="_subject" value="New Website Form Submission">
+              <input type="hidden" name="_next" value="https://vantagereach.github.io/Sabine-River-Metal-Works-Website/thank-you.html">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="hidden" name="_template" value="table">
+              <input type="text" name="_honey" class="form-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
               <label>Name <input name="name" autocomplete="name" required></label>
               <label>Phone <input name="phone" autocomplete="tel" required></label>
-              <label>Email <input name="email" type="email" autocomplete="email"></label>
+              <label>Email <input name="email" type="email" autocomplete="email" required></label>
               <label>Project Type
                 <select name="project">
                   <option>Pole barn</option>
