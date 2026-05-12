@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Standing seam metal roof">
+  <defs><linearGradient id="roof" x1="0" x2="1"><stop stop-color="#bdd0dc"/><stop offset=".5" stop-color="#f7fbff"/><stop offset="1" stop-color="#6e8494"/></linearGradient></defs>
+  <rect width="1000" height="760" fill="#dff1ff"/>
+  <rect y="555" width="1000" height="205" fill="#293f2c"/>
+  <path d="M90 400 510 185l400 215v55H90z" fill="url(#roof)"/>
+  <g stroke="#5c6e7a" stroke-width="9" opacity=".7"><path d="M170 395 520 215"/><path d="M250 407 540 250"/><path d="M330 420 560 285"/><path d="M410 432 585 320"/><path d="M490 445 610 355"/><path d="M570 455 640 390"/><path d="M650 455 675 420"/></g>
+  <rect x="180" y="455" width="640" height="130" fill="#f7fbff"/>
+  <rect x="250" y="495" width="150" height="90" fill="#0b3154"/>
+  <rect x="600" y="495" width="120" height="70" fill="#8fc5f4"/>
+</svg>

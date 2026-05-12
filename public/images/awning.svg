@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Custom metal awning over building entrance">
+  <rect width="1000" height="760" fill="#e9f5fc"/>
+  <rect x="120" y="240" width="760" height="390" fill="#f7fbff"/>
+  <rect x="170" y="330" width="260" height="300" fill="#0b3154"/>
+  <rect x="520" y="330" width="230" height="165" fill="#8fc5f4"/>
+  <path d="M95 280h810l-80 120H175z" fill="#0b4f8a"/>
+  <g stroke="#f7fbff" stroke-width="6" opacity=".45"><path d="M165 280l-55 120"/><path d="M255 280l-45 120"/><path d="M345 280l-35 120"/><path d="M435 280l-25 120"/><path d="M525 280l-15 120"/><path d="M615 280l-5 120"/><path d="M705 280l5 120"/><path d="M795 280l15 120"/></g>
+  <rect y="630" width="1000" height="130" fill="#d1c4a4"/>
+</svg>

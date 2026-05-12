@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Red iron steel building frame">
+  <rect width="1000" height="760" fill="#edf6fb"/>
+  <rect y="600" width="1000" height="160" fill="#c6d4df"/>
+  <g fill="none" stroke="#9b2724" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 595V310l340-165 360 165v285"/>
+    <path d="M255 595V360l235-112 245 112v235"/>
+    <path d="M150 310h700M255 360h480M490 145v450"/>
+    <path d="M150 595h700"/>
+  </g>
+  <g stroke="#0b3154" stroke-width="10" opacity=".55"><path d="M230 570h535"/><path d="M300 515h400"/><path d="M360 462h280"/></g>
+</svg>

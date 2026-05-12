@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "build": "node scripts/validate-site.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

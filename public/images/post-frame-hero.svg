@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="Post-frame metal building in Southeast Texas">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dff1ff"/><stop offset="0.52" stop-color="#8fc5f4"/><stop offset="1" stop-color="#0b4f8a"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1"><stop stop-color="#eef5f9"/><stop offset="0.5" stop-color="#9fb2bf"/><stop offset="1" stop-color="#f7fbff"/></linearGradient>
+    <pattern id="ribs" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M0 0h4v34H0z" fill="#6c7d88" opacity=".32"/></pattern>
+  </defs>
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <path d="M0 705c170-45 320-62 500-38 208 28 360 88 575 50 120-21 226-69 325-78v261H0z" fill="#173a28" opacity=".78"/>
+  <path d="M164 500 668 260l548 240v230H164z" fill="#243646"/>
+  <path d="M668 260 164 500h1052z" fill="#0b3154"/>
+  <path d="M238 520h850v210H238z" fill="url(#metal)"/>
+  <path d="M238 520h850v210H238z" fill="url(#ribs)"/>
+  <path d="M312 565h180v165H312zM580 565h210v165H580z" fill="#10263a"/>
+  <path d="M880 560h135v80H880z" fill="#8fc5f4" opacity=".75"/>
+  <path d="M180 498h990" stroke="#f28c28" stroke-width="24" stroke-linecap="round"/>
+  <path d="M164 730h978" stroke="#08243d" stroke-width="18"/>
+</svg>

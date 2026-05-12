@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Custom metal building with blue trim">
+  <rect width="1000" height="760" fill="#dff1ff"/>
+  <rect y="570" width="1000" height="190" fill="#52623f"/>
+  <path d="M130 350 500 170l370 180v250H130z" fill="#08243d"/>
+  <rect x="185" y="370" width="630" height="230" fill="#e5edf2"/>
+  <path d="M130 350h740" stroke="#1c86c8" stroke-width="22"/>
+  <rect x="260" y="425" width="210" height="175" fill="#172e4a"/>
+  <rect x="570" y="425" width="150" height="100" fill="#8fc5f4"/>
+  <g stroke="#6c7d88" stroke-width="4" opacity=".45"><path d="M220 370v230"/><path d="M275 370v230"/><path d="M330 370v230"/><path d="M385 370v230"/><path d="M440 370v230"/><path d="M495 370v230"/><path d="M550 370v230"/><path d="M605 370v230"/><path d="M660 370v230"/><path d="M715 370v230"/><path d="M770 370v230"/></g>
+</svg>
